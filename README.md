@@ -17,9 +17,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/Aman2913/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/Aman2913/E-Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/Aman2913/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/Aman2913/E-Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
