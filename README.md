@@ -2,9 +2,6 @@
   Portfolio Website <br/>
   <a href="https://aman-kumar-verma-portfolio.netlify.app/" target="_blank">Aman.tech</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
