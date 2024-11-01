@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://aman-kumar-verma-portfolio.netlify.app/" target="_blank">Aman.tech</a>
+  <a href="https://akv.vercel.app/" target="_blank">Aman.tech</a>
 </h2>
 
 <br/>
